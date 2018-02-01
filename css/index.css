@@ -1,0 +1,15 @@
+﻿body {
+}
+
+.imageDiv {
+    background-color:red;
+    display:inline-block;
+}
+.textDiv {
+    width: 600px;
+    height: 30px;
+    background-color:blue;
+}
+.containerDiv {
+    text-align:center;
+}
